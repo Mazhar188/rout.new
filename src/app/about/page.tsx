@@ -1,8 +1,8 @@
 import React from 'react'
 
-const page = () => {
+const page  = () => {
   return (
-   <div>home page</div>
+    <div>about us page</div>
   )
 }
 
